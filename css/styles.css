@@ -289,7 +289,7 @@ nav h1 a {
 /* mobile devices */
 @media (min-width: 458px) {
   .filter-options {
-    text-align: left;
+    text-align: center;
   }
 }
 
@@ -297,7 +297,7 @@ nav h1 a {
 
 @media (min-width: 640px) and (max-width: 929px){
   #restaurants-list li {
-    max-width: 44%;
+    max-width: 35%;
   }
   #restaurants-list li h1 {
     height: 35px;
@@ -308,7 +308,7 @@ nav h1 a {
 
 @media (min-width: 930px) {
   #restaurants-list li {
-    max-width: 30%;
+    max-width: 25%;
   }
   #restaurants-list p {
     width: 66%;
