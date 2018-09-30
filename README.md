@@ -9,8 +9,6 @@ service worker to begin the process of creating a seamless offline experience fo
 
 1. Clone or download this repository
 
-```$ git clone https://oriettaroperto.github.io/FEND-restaurant-review.git```
-
 2. In this folder, start up a simple HTTP server to serve up the site files on your local computer. 
 Python has some simple tools to do this, and you don't even need to know Python. For most people, it's already installed on your computer. 
 
